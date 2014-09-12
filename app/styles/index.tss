@@ -1,0 +1,10 @@
+".container": {
+  backgroundColor:"white"
+},
+
+"#hello": {
+  color: "#000",
+  font: {
+    fontSize: 12
+  }
+}

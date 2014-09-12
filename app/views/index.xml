@@ -1,0 +1,15 @@
+<Alloy>
+  <TabGroup id="index">
+    <Tab id="rss" title="RSS">
+      <Window id="list" class="container" title="記事一覧">
+        <TableView id="tableView">
+        </TableView>
+      </Window>
+    </Tab>
+    <Tab id="setting" title="設定">
+      <Window id="config" class="container">
+        <Label id="hello" text="Hello" />
+      </Window>
+    </Tab>
+  </TabGroup>
+</Alloy>
